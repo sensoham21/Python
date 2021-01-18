@@ -1,1 +1,1 @@
-# Python_SQL
+Python code for blackjack game
